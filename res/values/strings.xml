@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="hello">The AR.Pro Firmware Pack is a storage only Android application and provides the files necessary to upgrade the firmware of your AR.Drone to AR.Pro.</string>
+    <string name="app_name">AR.Pro Firmware Pack</string>
+    <string name="app_info">The AR.Pro Firmware Pack will do nothing without AR.Pro.  You can purchase AR.Pro from the Android Market.  AR.Pro is also available on the Amazon Appstore.</string>
+    <string name="arpro_market">Visit the Android Market</string>
+</resources>
