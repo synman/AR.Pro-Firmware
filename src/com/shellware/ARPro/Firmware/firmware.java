@@ -19,6 +19,7 @@ public class firmware extends Activity {
         marketButton.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View arg0) {
 	     	   	try {
+//					Intent getFw = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.amazon.com/gp/mas/dl/android?p=com.shellware.AR.Pro.Fire"));
 					Intent getFw = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.shellware.AR.Pro"));
 					startActivity(getFw);
 				} catch (Exception e) {
