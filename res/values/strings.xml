@@ -6,7 +6,7 @@
     <!-- <string name="app_info">The AR.Pro Firmware Pack will do nothing without AR.Pro.  You can purchase AR.Pro from the Amazon App Store.</string>
     <string name="arpro_market">Visit the Amazon App Store</string> -->
     
-    <string name="app_info">The AR.Pro Firmware Pack will do nothing without AR.Pro.  You can purchase AR.Pro from the Google Play Store.  AR.Pro is also available on the Amazon Appstore.</string>
+    <string name="app_info">The AR.Pro Firmware Pack will do nothing without AR.Pro.  You can purchase AR.Pro from the Google Play Store and the Amazon Appstore.</string>
     <string name="arpro_market">Visit the Google Play Store</string>
-    
+    <string name="arpro_amazon">Visit the Amazon Appstore</string>    
 </resources>
